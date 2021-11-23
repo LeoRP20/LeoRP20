@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 Sobre mim! </h3>
 
-- 🔭 &nbsp; Atualmente estudante procurando oportunidade de estágio ou junior.
+- 🔭 &nbsp; Atualmente estudante e procurando oportunidade de estágio ou junior.
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo projetos.
 - 🎓 &nbsp; Cursando Análise e desenvolvimento de sistemas e participante do DEV IN HOUSE(Full Stack).
 - 🌱 &nbsp; Entusiasta desenvolvedor com grandes ambições!
